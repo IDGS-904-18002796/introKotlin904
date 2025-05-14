@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">introKotlin904</string>
+    <string name="numero1">Numero1</string>
+    <string name="numero2">Numero2</string>
+    <string name="opciones">Opciones</string>
+    <string name="inserte_b">Inserte b</string>
+    <string name="inserte_a">Inserte a</string>
 </resources>
